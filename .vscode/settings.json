@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/anqi/c/test01",
+    "files.associations": {
+        "unistd.h": "c"
+    }
+}

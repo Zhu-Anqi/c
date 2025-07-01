@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/textIDE.dir/main.c.o CMakeFiles/textIDE.dir/raw_mode.c.o -o textIDE

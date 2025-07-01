@@ -1,0 +1,3 @@
+/home/anqi/c/pp/build/CMakeFiles/textIDE.dir
+/home/anqi/c/pp/build/CMakeFiles/edit_cache.dir
+/home/anqi/c/pp/build/CMakeFiles/rebuild_cache.dir
